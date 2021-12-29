@@ -1,6 +1,8 @@
-# oreilly-sql-powered-excel
-Resources for Stringfest course, SQL for Excel Users.
+![cover](images/cover.png)
 
+
+
+# SQL for Excel Users
 *Setup instructions*:
 
 1. [Install SQLite](https://www.sqlitetutorial.net/sqlite-tutorial/download-install-sqlite/).
